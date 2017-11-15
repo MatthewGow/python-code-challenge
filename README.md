@@ -23,8 +23,6 @@ python employee_lookup.py --first-name "Tim"
 
 - The script should include logging for any important information, it's up to you to determine how much and what information to log.
 
-- This script should be written as a class so that other scripts can involk lookups.
-
 - It is up to you if you want to enforce case sensitvity in your lookups.
 
 ### BONUS CHALLENGE
