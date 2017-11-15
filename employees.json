@@ -1,0 +1,274 @@
+{
+    "Employees":[
+        {
+            "userId":"Thomas Weiss",
+            "jobTitleName":"Engineering Manager",
+            "firstName":"Thomas",
+            "lastName":"Weiss",
+            "preferredFullName":"Tom Weiss",
+            "office":"Chicago",
+            "phoneNumber":"312-555-9654",
+            "emailAddress":"tweiss@example.com"
+        },
+        {
+            "userId":"James Kessler",
+            "jobTitleName":"Software Engineer",
+            "firstName":"James",
+            "lastName":"Kessler",
+            "preferredFullName":"James Kessler",
+            "office":"Chicago",
+            "phoneNumber":"312-555-5452",
+            "emailAddress":"jkessler@example.com"
+        },
+        {
+            "userId":"Christine Naples",
+            "jobTitleName":"Systems Engineer",
+            "firstName":"Christine",
+            "lastName":"Naples",
+            "preferredFullName":"Chris Naples",
+            "office":"New York",
+            "phoneNumber":"312-555-7354",
+            "emailAddress":"cnaples@example.com"
+        },
+        {
+            "userId":"Tim Stacy",
+            "jobTitleName":"Software Engineer",
+            "firstName":"Tim",
+            "lastName":"Stacy",
+            "preferredFullName":"Tim Stacy",
+            "office":"Chicago",
+            "phoneNumber":"312-555-7845",
+            "emailAddress":"tstacy@example.com"
+        },
+        {
+            "userId":"Terrence Morris",
+            "jobTitleName":"Software Engineer",
+            "firstName":"Terrence",
+            "lastName":"Morris",
+            "preferredFullName":"Terry Morris",
+            "office":"Chicago",
+            "phoneNumber":"312-555-1545",
+            "emailAddress":"tmorris@example.com"
+        },
+        {
+            "userId":"Tylee Gooderham",
+            "jobTitleName":"Software Engineer",
+            "firstName":"Tylee",
+            "lastName":"Gooderham",
+            "preferredFullName":"Tylee Gooderham",
+            "office":"Chicago",
+            "phoneNumber":"312-555-2436",
+            "emailAddress":"tgooderham@example.com"
+        },
+        {
+            "userId":"Matthew Gow",
+            "jobTitleName":"Software Engineer",
+            "firstName":"Matthew",
+            "lastName":"Gow",
+            "preferredFullName":"Matt Gow",
+            "office":"Chicago",
+            "phoneNumber":"312-555-7766",
+            "emailAddress":"mgow@example.com"
+        },
+        {
+            "userId":"Nicolas Rain",
+            "jobTitleName":"CEO",
+            "firstName":"Nicolas",
+            "lastName":"Rain",
+            "preferredFullName":"Nick Rain",
+            "office":"Chicago",
+            "phoneNumber":"312-555-1000",
+            "emailAddress":"nrain@example.com"
+        },
+        {
+            "userId":"Jerry Smith",
+            "jobTitleName":"Attorney",
+            "firstName":"Jerry",
+            "lastName":"Smith",
+            "preferredFullName":"Jerry Smith",
+            "office":"Chicago",
+            "phoneNumber":"312-555-4321",
+            "emailAddress":"jsmith@example.com"
+        },
+        {
+            "userId":"Tim Stacy",
+            "jobTitleName":"Software Engineer",
+            "firstName":"Tim",
+            "lastName":"Stacy",
+            "preferredFullName":"Lieutenant",
+            "office":"Houston",
+            "phoneNumber":"312-555-7885",
+            "emailAddress":"tstacy2@example.com"
+        },
+        {
+            "userId":"Alan Thomas",
+            "jobTitleName":"Customer Success",
+            "firstName":"Alan",
+            "lastName":"Thomas",
+            "preferredFullName":"Alan Thomas",
+            "office":"Houston",
+            "phoneNumber":"312-555-3432",
+            "emailAddress":"athomas@example.com"
+        },
+        {
+            "userId":"Kevin O'Maley",
+            "jobTitleName":"Graphic Designer",
+            "firstName":"Kevin",
+            "lastName":"O'Maley",
+            "preferredFullName":"Kevin O'Maley",
+            "office":"Chicago",
+            "phoneNumber":"312-555-3233",
+            "emailAddress":"komaley@example.com"
+        },
+        {
+            "userId":"Richard Barnett",
+            "jobTitleName":"Graphic Designer",
+            "firstName":"Richard",
+            "lastName":"Barnett",
+            "preferredFullName":"Dick Barnett",
+            "office":"Houston",
+            "phoneNumber":"312-555-1121",
+            "emailAddress":"rbarnett@example.com"
+        },
+        {
+            "userId":"John Spacey",
+            "jobTitleName":"Human Resources",
+            "firstName":"John",
+            "lastName":"Spacey",
+            "preferredFullName":"John Spacey",
+            "office":"Chicago",
+            "phoneNumber":"312-555-1881",
+            "emailAddress":"jspacey@example.com"
+        },
+        {
+            "userId":"Louis Peels",
+            "jobTitleName":"CTO",
+            "firstName":"Louis",
+            "lastName":"Peels",
+            "preferredFullName":"Lou Peels",
+            "office":"Chicago",
+            "phoneNumber":"312-555-2218",
+            "emailAddress":"lpeels@example.com"
+        },
+        {
+            "userId":"Marty Bard",
+            "jobTitleName":"IT Specialist",
+            "firstName":"Marty",
+            "lastName":"Bard",
+            "preferredFullName":"Marty Bard",
+            "office":"New York",
+            "phoneNumber":"312-555-7732",
+            "emailAddress":"mbard@example.com"
+        },
+        {
+            "userId":"Liam Nelson",
+            "jobTitleName":"IT Specialist",
+            "firstName":"Liam",
+            "lastName":"Nelson",
+            "preferredFullName":"Liam Nelson",
+            "office":"Seattle",
+            "phoneNumber":"312-555-0001",
+            "emailAddress":"lnelson@example.com"
+        },
+        {
+            "userId":"Carl Nordberg",
+            "jobTitleName":"IT Manager",
+            "firstName":"Carl",
+            "lastName":"Nordberg",
+            "preferredFullName":"Carl Nordberg",
+            "office":"Chicago",
+            "phoneNumber":"312-555-0912",
+            "emailAddress":"cnordberg@example.com"
+        },
+        {
+            "userId":"Gene Goldstrum",
+            "jobTitleName":"UI/Design Manager",
+            "firstName":"Gene",
+            "lastName":"Goldstrum",
+            "preferredFullName":"Gene Goldstrum",
+            "office":"New York",
+            "phoneNumber":"312-555-4107",
+            "emailAddress":"ggoldstrum@example.com"
+        },
+        {
+            "userId":"Donald Muse",
+            "jobTitleName":"Systems Engineer",
+            "firstName":"Donald",
+            "lastName":"Muse",
+            "preferredFullName":"Don Muse",
+            "office":"Seattle",
+            "phoneNumber":"312-555-8823",
+            "emailAddress":"dmuse@example.com"
+        },
+        {
+            "userId":"Christine Naples",
+            "jobTitleName":"Systems Engineer",
+            "firstName":"Christine",
+            "lastName":"Naples",
+            "preferredFullName":"Chris Naples",
+            "office":"New York",
+            "phoneNumber":"312-555-7354",
+            "emailAddress":"cnaples@example.com"
+        },
+        {
+            "userId":"Ralph Vance",
+            "jobTitleName":"Networking Engineer",
+            "firstName":"Ralph",
+            "lastName":"Vance",
+            "preferredFullName":"Ralph Vance",
+            "office":"New York",
+            "phoneNumber":"312-555-7727",
+            "emailAddress":"rvance@example.com"
+        },
+        {
+            "userId":"Thomas Shanley",
+            "jobTitleName":"Networking Engineer",
+            "firstName":"Thomas",
+            "lastName":"Shanley",
+            "preferredFullName":"Tom Shanley",
+            "office":"Chicago",
+            "phoneNumber":"312-555-2020",
+            "emailAddress":"tshanley@example.com"
+        },
+        {
+            "userId":"David Guild",
+            "jobTitleName":"Graphic Designer",
+            "firstName":"David",
+            "lastName":"Guild",
+            "preferredFullName":"Dave Guild",
+            "office":"Seattle",
+            "phoneNumber":"312-555-3560",
+            "emailAddress":"dguild@example.com"
+        },
+        {
+            "userId":"Jamie Longfellow",
+            "jobTitleName":"CMO",
+            "firstName":"Jamie",
+            "lastName":"Longfellow",
+            "preferredFullName":"Jamie Longfellow",
+            "office":"Chicago",
+            "phoneNumber":"312-555-4721",
+            "emailAddress":"jlongfellow@example.com"
+        },
+        {
+            "userId":"James Kessler",
+            "jobTitleName":"Software Engineer",
+            "firstName":"James",
+            "lastName":"Kessler",
+            "preferredFullName":"James Kessler",
+            "office":"Chicago",
+            "phoneNumber":"312-555-5452",
+            "emailAddress":"jkessler@example.com"
+        },
+        {
+            "userId":"Anthony Andrews",
+            "jobTitleName":"Director of Engineering",
+            "firstName":"Anthony",
+            "lastName":"Andrews",
+            "preferredFullName":"Tony Andrews",
+            "office":"Chicago",
+            "phoneNumber":"312-555-1742",
+            "emailAddress":"aandrews@example.com"
+        }
+    ]
+}
