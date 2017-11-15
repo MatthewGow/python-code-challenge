@@ -21,16 +21,6 @@
             "emailAddress":"jkessler@example.com"
         },
         {
-            "userId":"Christine Naples",
-            "jobTitleName":"Systems Engineer",
-            "firstName":"Christine",
-            "lastName":"Naples",
-            "preferredFullName":"Chris Naples",
-            "office":"New York",
-            "phoneNumber":"312-555-7354",
-            "emailAddress":"cnaples@example.com"
-        },
-        {
             "userId":"Tim Stacy",
             "jobTitleName":"Software Engineer",
             "firstName":"Tim",
@@ -79,6 +69,16 @@
             "office":"Chicago",
             "phoneNumber":"312-555-1000",
             "emailAddress":"nrain@example.com"
+        },
+        {
+            "userId":"Christine Naples",
+            "jobTitleName":"Systems Engineer",
+            "firstName":"Christine",
+            "lastName":"Naples",
+            "preferredFullName":"Chris Naples",
+            "office":"New York",
+            "phoneNumber":"312-555-7354",
+            "emailAddress":"cnaples@example.com"
         },
         {
             "userId":"Jerry Smith",
