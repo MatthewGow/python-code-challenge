@@ -28,8 +28,8 @@ python employee_lookup.py --first-name "Tim"
 - It is up to you if you want to enforce case sensitvity in your lookups.
 
 ### BONUS CHALLENGE
-
 >Oh no! There are duplicates in the data! 
 Figure out a way to prevent any duplicates from getting printed to the user.
-It may be assumed that the email address is assigned to each unique employee.
-NOTE: Do NOT edit the employee.json file!
+It may be assumed that an email address is assigned to each unique employee.
+>  
+>NOTE: Do NOT edit the employee.json file!
